@@ -1,4 +1,5 @@
 # All the imports go here
+#project for creation of white canves for paint using cv2 open cv
 import cv2
 import numpy as np
 import mediapipe as mp
